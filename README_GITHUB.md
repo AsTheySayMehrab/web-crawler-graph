@@ -370,10 +370,10 @@ python crawler.py https://example.com
 
 ### نویسنده
 
-**مهراب محمودی‌فر**
+**محراب محمودی‌فر**
 
-- GitHub: [@mehrabmahmoudifar](https://github.com/mehrabmahmoudifar)
-- ایمیل: mehrab.mahmoudifar@example.com
+- GitHub: [@mehrabmahmoudifar](https://github.com/astheysaymehrab)
+- ایمیل: mehrabmahmoudifar98@gmail.com
 
 ### مجوز
 
