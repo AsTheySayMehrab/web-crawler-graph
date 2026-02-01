@@ -170,7 +170,7 @@ MIT License - see LICENSE file for details
 ### Author
 
 **Mehrab Mahmoudifar**
-- GitHub: [@mehrabmahmoudifar](https://github.com/mehrabmahmoudifar)
+- GitHub: [@AsTheySayMehrab](https://github.com/AsTheySayMehrab)
 
 ### Acknowledgments
 
@@ -331,8 +331,8 @@ python crawler.py https://shop.example.com
 
 ### نویسنده
 
-**مهراب محمودی‌فر**
-- GitHub: [@mehrabmahmoudifar](https://github.com/mehrabmahmoudifar)
+**محراب محمودی‌فر**
+- GitHub: [@AsTheySayMehrab](https://github.com/AsTheySayMehrab)
 
 ### قدردانی
 
