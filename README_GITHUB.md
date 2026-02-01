@@ -292,8 +292,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Mehrab Mahmoudifar**
 
-- GitHub: [@mehrabmahmoudifar](https://github.com/mehrabmahmoudifar)
-- Email: mehrab.mahmoudifar@example.com
+- GitHub: [@AsTheySayMehrab](https://github.com/AsTheySayMehrab)
+- Email: mehrabmahmoudifar98@gmail.com
 
 ### Acknowledgments
 
