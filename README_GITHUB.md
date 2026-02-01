@@ -372,7 +372,7 @@ python crawler.py https://example.com
 
 **محراب محمودی‌فر**
 
-- GitHub: [@mehrabmahmoudifar](https://github.com/astheysaymehrab)
+- GitHub: [@astheysaymehrab](https://github.com/astheysaymehrab)
 - ایمیل: mehrabmahmoudifar98@gmail.com
 
 ### مجوز
